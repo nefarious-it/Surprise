@@ -1,0 +1,19 @@
+index.html
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Loading…</title>
+  <meta http-equiv="refresh" content="1; url=https://saurabhnemade.github.io/will-you-be-my-valentine/">
+  <style>
+    body { 
+      font-family: Arial, sans-serif; 
+      text-align: center; 
+      margin-top: 20%; 
+    }
+  </style>
+</head>
+<body>
+  <h2>Nur einen Moment… 💌</h2>
+</body>
+</html>
